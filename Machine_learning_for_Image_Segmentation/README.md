@@ -50,6 +50,8 @@
 ## Web Review
 - [Review: U-Net+ResNet — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)](https://medium.com/datadriveninvestor/review-u-net-resnet-the-importance-of-long-short-skip-connections-biomedical-image-ccbf8061ff43)
 - [Review: U-Net (Biomedical Image Segmentation)](https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760)
+- [Review: timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
+
 
 ## DL tool for Biology
 - [Welcome to webKnossos](https://webknossos.org/)
@@ -89,6 +91,9 @@
 - [Who is the best at X ?](http://rodrigob.github.io/are_we_there_yet/build/#datasets)
 - [Kaggle/Biology](https://www.kaggle.com/tags/biology)
 - [18 Free Life Sciences, Healthcare and Medical Datasets for Machine Learning](https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/)
+- [A survey on Deep Learning Advances on Different 3D Data
+Representations](https://arxiv.org/pdf/1808.01462.pdf)
+
 
 ## Image Annotation
 - [wkentaro/labelme](https://github.com/wkentaro/labelme)
