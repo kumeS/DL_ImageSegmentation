@@ -6,6 +6,9 @@ IVM & X-ray CT & 3DEM
 
 ## X-ray CT
 ## EM & 3DEM
+Microscopy
+- [A. KREMER et al., Journal of Microscopy, Vol. 259, Issue 2 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670703/pdf/jmi0259-0080.pdf)
+
 Neuroscience
 - [Narayanan Kasthuri et al, Saturated Reconstruction of a Volume of Neocortex, Cell, 2015](https://www.cell.com/abstract/S0092-8674(15)00824-7)
 
@@ -24,6 +27,8 @@ Localization of Proteins of Interest](https://www.sciencedirect.com/science/arti
 - [APEX2-enhanced electron microscopy distinguishes sigma-1
 receptor localization in the nucleoplasmic reticulum ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584251/pdf/oncotarget-08-51317.pdf)
 
+## Segmentation for biology
+- [Jun Li et al, Dense Transformer Networks for Brain Electron Microscopy Image Segmentation, IJCAI-19](https://www.ijcai.org/proceedings/2019/0401.pdf)
 
 
 

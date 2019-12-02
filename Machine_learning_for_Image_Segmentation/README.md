@@ -51,6 +51,9 @@
 - [Review: U-Net+ResNet — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)](https://medium.com/datadriveninvestor/review-u-net-resnet-the-importance-of-long-short-skip-connections-biomedical-image-ccbf8061ff43)
 - [Review: U-Net (Biomedical Image Segmentation)](https://towardsdatascience.com/review-u-net-biomedical-image-segmentation-d02bf06ca760)
 - [Review: timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
+- [Review: tangzhenyu/SemanticSegmentation_DL](https://github.com/tangzhenyu/SemanticSegmentation_DL)
+
+
 
 
 ## DL tool for Biology
