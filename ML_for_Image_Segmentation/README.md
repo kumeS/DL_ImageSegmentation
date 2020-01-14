@@ -1,7 +1,6 @@
 # Machine learning for Bioimage Segmentation Wiki
 
 ## DL & ML papers for Biology
-- [Peter H. Li et al, Automated Reconstruction of a Serial-Section EM Drosophila Brain with Flood-Filling Networks and Local Realignment](https://www.biorxiv.org/content/biorxiv/early/2019/04/11/605634.full.pdf)
 - [Martin Schorb et al, Software tools for automated transmission electron microscopy](https://www.nature.com/articles/s41592-019-0396-9)
 	+ [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2018/08/20/389502.full.pdf)
 - [Roger Brent et al, Deep learning to predict microscope images, Nature Methods, volume 15, pages868–870 (2018)](https://www.nature.com/articles/s41592-018-0194-9)
@@ -25,7 +24,7 @@
 ## DL Papers : Super Resolution
 - [Michał Januszewski et al: Segmentation-Enhanced CycleGAN](https://www.biorxiv.org/content/biorxiv/early/2019/02/13/548081.full.pdf)
 - [Peter H. Li et al. Automated Reconstruction of a Serial-Section EM Drosophila Brain with Flood-Filling Networks and Local Realignment. Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/automated-reconstruction-of-a-serialsection-em-drosophila-brain-with-floodfilling-networks-and-local-realignment/5CF33D7A2EBFA03A4914E0C114BC87A0)
-- [Peter H. Li et al: Automated Reconstruction of a Serial-Section EM Drosophila Brain with Flood-Filling Networks and Local Realignment, bioRxiv](https://www.biorxiv.org/content/10.1101/605634v1)
+	+ [Peter H. Li et al: Automated Reconstruction of a Serial-Section EM Drosophila Brain with Flood-Filling Networks and Local Realignment, bioRxiv](https://www.biorxiv.org/content/10.1101/605634v1)
 
 
 ## DL Papers : Segmentation
