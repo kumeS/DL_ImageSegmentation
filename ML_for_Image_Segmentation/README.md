@@ -10,7 +10,6 @@
 - [CDeep3M—Plug-and-Play cloud-based deep learning for image segmentation](https://www.nature.com/articles/s41592-018-0106-z)
 	+ [CRBS/cdeep3m](https://github.com/CRBS/cdeep3m)
 - [Kohki Konishi et al, Practical method of cell segmentation in electron microscope image stack using deep convolutional neural network](https://academic.oup.com/jmicro/advance-article/doi/10.1093/jmicro/dfz016/5421430)
-- [Michał Januszewski et al, Segmentation-Enhanced CycleGAN](https://www.biorxiv.org/content/biorxiv/early/2019/02/13/548081.full.pdf)
 - [Varun Gulshan et al, Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/45732.pdf)
 - [Yun Liu et al, Artificial Intelligence–Based Breast Cancer Nodal Metastasis Detection](https://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2018-0147-OA)
 - [Diego Ardila et al, End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography](https://www.nature.com/articles/s41591-019-0447-x)
@@ -23,7 +22,13 @@
 - [Md Zahangir Alom et al, Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation](https://arxiv.org/pdf/1802.06955.pdf)
 - [Kun Zhang et al, Zebrafish Embryo Vessel Segmentation Using a Novel Dual ResUNet Model](https://www.hindawi.com/journals/cin/2019/8214975/)
 
-## DL Papers
+## DL Papers : Super Resolution
+- [Michał Januszewski et al: Segmentation-Enhanced CycleGAN](https://www.biorxiv.org/content/biorxiv/early/2019/02/13/548081.full.pdf)
+- [Peter H. Li et al. Automated Reconstruction of a Serial-Section EM Drosophila Brain with Flood-Filling Networks and Local Realignment. Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/automated-reconstruction-of-a-serialsection-em-drosophila-brain-with-floodfilling-networks-and-local-realignment/5CF33D7A2EBFA03A4914E0C114BC87A0)
+- [Peter H. Li et al: Automated Reconstruction of a Serial-Section EM Drosophila Brain with Flood-Filling Networks and Local Realignment, bioRxiv](https://www.biorxiv.org/content/10.1101/605634v1)
+
+
+## DL Papers : Segmentation
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/pdf/1511.00561.pdf)
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1511.00561.pdf)
