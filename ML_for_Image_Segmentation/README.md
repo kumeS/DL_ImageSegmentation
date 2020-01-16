@@ -122,6 +122,12 @@ Representations](https://arxiv.org/pdf/1808.01462.pdf)
 - ## javadoc.imagej.net
 	+ [Class Trainable_Segmentation](http://javadoc.imagej.net/Fiji/trainableSegmentation/Trainable_Segmentation.html)
 
+## Japanese 国際学会 速報
+- [ICCV2017速報 slideshare](https://www.slideshare.net/cvpaperchallenge/iccv-2017)
+- [CVPR2017 速報 slideshare](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)
+- [CVPR2018 速報 slideshare](https://www.slideshare.net/cvpaperchallenge/cvpr-2018-102878612)
+- [CVPR 2019 速報](https://www.slideshare.net/cvpaperchallenge/cvpr-2019)
+
 ## Japanese 
 - [ResNetまわりの論文まとめ](https://alis.to/whey/articles/2APVgqrOxRpB)
 - [RFtutorial SSII2013](http://www.habe-lab.org/habe/RFtutorial/SSII2013_RFtutorial_Slides.pdf)
@@ -131,9 +137,6 @@ Representations](https://arxiv.org/pdf/1808.01462.pdf)
 - [メディカルAI専門コース オンライン講義資料 5. 実践編: MRI画像のセグメンテーション](https://japan-medical-ai.github.io/medical-ai-course-materials/index.html)
 - [Rでコンピュータービジョン](https://qiita.com/masaki_kubota/items/e91402649e75d255d12f)
 - [cvpaper.challenge in CVPR2015 (PRMU2015年12月)](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-in-cvpr2015-prmu201512-56326765)
-- [ICCV2017速報 slideshare](https://www.slideshare.net/cvpaperchallenge/iccv-2017)
-- [CVPR2017 速報 slideshare](https://www.slideshare.net/cvpaperchallenge/cvpr-2017-78294211)
-- [CVPR2018 速報 slideshare](https://www.slideshare.net/cvpaperchallenge/cvpr-2018-102878612)
 - [MathWorks セマンティック・セグメンテーションの基礎](https://jp.mathworks.com/content/dam/mathworks/mathworks-dot-com/company/events/webinar-cta/2459280_Basics_of_semantic_segmentation.pdf)
 - [Semantic segmentation](https://www.slideshare.net/takmin/semantic-segmentation)
 - [学習画像/動画作成用アノテーションツールを調べてみた](https://takmin.hatenablog.com/entry/20180319/1521436935)
