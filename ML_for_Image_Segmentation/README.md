@@ -78,16 +78,42 @@
 	+ [autonomio/talos](https://github.com/autonomio/talos)
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
 
-## DL Model in R
+## ML seminar
+- [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/)
+
+## Deep learning in R, Selected
+- [ANTsX/ANTs](https://github.com/ANTsX/ANTs)
+	+ [neuroconductor](https://neuroconductor.org/sites/default/files/pkgdown/ANTsR/index.html)
+- [ANTsX/ANTsRNet](https://github.com/ANTsX/ANTsRNet)
+	+ [github.io](https://antsx.github.io/ANTsRNet/docs/index.html)
+- [All Neuroconductor Packages](https://neuroconductor.org/list-packages/all)
+- [Nuclei segmentation using R (keras U-Net)](https://www.kaggle.com/mviterson/segmentation-using-r-keras-u-net-lb-0-294)
+
+## Deep learning in R
 - [keras/vignettes/examples/unet_linux.R](https://github.com/rstudio/keras/blob/master/vignettes/examples/unet_linux.R)
 - [unet with Keras and R](https://www.kaggle.com/ogurtsov/unet-with-keras-and-r)
-- [Nuclei segmentation using R (keras U-Net)](https://www.kaggle.com/mviterson/segmentation-using-r-keras-u-net-lb-0-294)
-- [ANTsX/ANTsRNet](https://github.com/ANTsX/ANTsRNet)
 - [Guide to Keras Basics](https://keras.rstudio.com/articles/guide_keras.html)
 - [Keras Examples](https://tensorflow.rstudio.com/keras/articles/examples/)
 - [It's that easy! Image classification with keras in roughly 100 lines of code.](https://shirinsplayground.netlify.com/2018/06/keras_fruits/)
 - [Example of Deep Learning With R and Keras](https://dzone.com/articles/deep-learning-with-r-and-keras-on-the-example-of-c)
 - [Transfer Learning with Keras in R](https://www.r-bloggers.com/transfer-learning-with-keras-in-r/)
+
+- [AdrianAntico/RemixAutoML](https://github.com/AdrianAntico/RemixAutoML)
+- [mlr-org/mlr](https://github.com/mlr-org/mlr)
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+- [dlab-berkeley/Unsupervised-Learning-in-R](https://github.com/dlab-berkeley/Unsupervised-Learning-in-R)
+- [dlab-berkeley/Deep-Learning-in-R](https://github.com/dlab-berkeley/Deep-Learning-in-R)
+- [jjallaire/deep-learning-with-r-notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks)
+
+## 3D visualization in R
+- [2D/3D t-SNE in R](https://www.kaggle.com/kepler/2d-3d-t-sne-in-r)
+- [Visualize with 3D plotly](https://www.kaggle.com/c34klh123/visualize-with-3d-plotly)
+- [3D Plotly, Unsupervised Learning, and lightGBM](https://www.kaggle.com/couyang/3d-plotly-unsupervised-learning-and-lightgbm)
+
+## 3D Deep learning & 3D visualization in Python
+- [IntelAI/unet](https://github.com/IntelAI/unet/tree/master/3D)
+- [ellisdg/3DUnetCNN](https://github.com/ellisdg/3DUnetCNN)
+- [First pass through Data w/ 3D ConvNet](https://www.kaggle.com/fitrialif/first-pass-through-data-w-3d-convnet)
 
 ## Datasets Summary
 - [arXivTimes/datasets](https://github.com/arXivTimes/arXivTimes/tree/master/datasets)
