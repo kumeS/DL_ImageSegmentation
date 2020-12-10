@@ -33,6 +33,7 @@ receptor localization in the nucleoplasmic reticulum ](https://www.ncbi.nlm.nih.
 - [Jun Li et al, Dense Transformer Networks for Brain Electron Microscopy Image Segmentation, IJCAI-19](https://www.ijcai.org/proceedings/2019/0401.pdf)
 
 ### Segmentation for kidney
-- []()
-- []()
+####Dataset
+- [Gloria Buenoa et al, Data for glomeruli characterization in histopathological images, Data in Brief Volume 29, 2020.](https://www.sciencedirect.com/science/article/pii/S2352340920302080)
+
 
