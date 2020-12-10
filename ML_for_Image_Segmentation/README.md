@@ -69,6 +69,7 @@
 
 ## DL Model in General
 - [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+	+ Unet, FPN, Linknet, PSPNet
 - [MrGiovanni/UNetPlusPlus](https://github.com/MrGiovanni/UNetPlusPlus)
 - [qubvel/segmentation_models](https://github.com/qubvel/segmentation_models)
 - [ykamikawa/tf-keras-PSPNet](https://github.com/ykamikawa/tf-keras-PSPNet)
