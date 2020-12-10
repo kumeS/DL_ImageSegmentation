@@ -1,4 +1,4 @@
-# BioimagingRefs
+# Bioimaging wiki
 
 ## CLEM
 IVM & X-ray CT & 3DEM
