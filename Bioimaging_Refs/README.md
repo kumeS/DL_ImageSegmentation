@@ -1,12 +1,12 @@
 # Bioimaging wiki
 
-# Microscopy / 
-## CLEM
+## Microscopy / equipment
+### CLEM
 IVM & X-ray CT & 3DEM
 - [Matthia A. et al, Fast and precise targeting of single tumor cells in vivo by multimodal correlative microscopy, J Cell Sci, 2016](http://jcs.biologists.org/content/129/2/444.long)
 
-## X-ray CT
-## EM & 3DEM
+### X-ray CT
+### EM & 3DEM
 Microscopy
 - [A. KREMER et al., Journal of Microscopy, Vol. 259, Issue 2 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670703/pdf/jmi0259-0080.pdf)
 
@@ -28,11 +28,11 @@ Localization of Proteins of Interest](https://www.sciencedirect.com/science/arti
 - [APEX2-enhanced electron microscopy distinguishes sigma-1
 receptor localization in the nucleoplasmic reticulum ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5584251/pdf/oncotarget-08-51317.pdf)
 
-# Biology / Pathology
-## Segmentation for biology
+## Biology / Pathology
+### Segmentation for biology
 - [Jun Li et al, Dense Transformer Networks for Brain Electron Microscopy Image Segmentation, IJCAI-19](https://www.ijcai.org/proceedings/2019/0401.pdf)
 
-## Segmentation for Kidney
+### Segmentation for kidney
 - []()
 - []()
 
