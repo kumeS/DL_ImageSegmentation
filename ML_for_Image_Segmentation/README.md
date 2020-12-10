@@ -50,6 +50,8 @@
 - [Using the U-net convolutional network to map forest types and disturbance in the Atlantic rainforest with very high resolution images](http://www.rainfor.org/upload/publication-store/itm_312/Wagner_et_al_Unet_2019.pdf)
 - [Foivos I. Diakogiannis et al, ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data](https://arxiv.org/pdf/1904.00592.pdf)
 - [J. Caldeira et al, DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks](https://arxiv.org/pdf/1810.01483.pdf)
+- [Ozan Oktay et al, Attention U-Net: Learning Where to Look for the Pancreas, Computer Vision and Pattern Recognition](https://arxiv.org/abs/1804.03999)
+
 
 ## Web Review
 - [Review: U-Net+ResNet — The Importance of Long & Short Skip Connections (Biomedical Image Segmentation)](https://medium.com/datadriveninvestor/review-u-net-resnet-the-importance-of-long-short-skip-connections-biomedical-image-ccbf8061ff43)
