@@ -1,4 +1,4 @@
-# Machine learning for Bioimage Segmentation Wiki
+# Machine learning for Image Segmentation Wiki
 
 ## DL & ML papers for Biology
 - [Martin Schorb et al, Software tools for automated transmission electron microscopy](https://www.nature.com/articles/s41592-019-0396-9)
