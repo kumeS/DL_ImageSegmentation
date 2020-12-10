@@ -158,6 +158,7 @@ Representations](https://arxiv.org/pdf/1808.01462.pdf)
 - [CVPR 2019 速報](https://www.slideshare.net/cvpaperchallenge/cvpr-2019)
 
 ## Japanese 
+- [TensorFlow 2.X の使い方を VGG16／ResNet50 の実装と共に解説](https://qiita.com/anieca/items/9dfe3ef46e7b655bf3ee)
 - [ResNetまわりの論文まとめ](https://alis.to/whey/articles/2APVgqrOxRpB)
 - [RFtutorial SSII2013](http://www.habe-lab.org/habe/RFtutorial/SSII2013_RFtutorial_Slides.pdf)
 - [U-NetでPascal VOC 2012の画像をSemantic Segmentationする](https://qiita.com/tktktks10/items/0f551aea27d2f62ef708)
